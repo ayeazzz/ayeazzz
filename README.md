@@ -7,12 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliyazahranurazizah)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ayeazzz)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aliyazahranur145@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6282315131576)
 
 </div>
 
 ### ✨ About
-🎓 Informatics @ **Unpad** (GPA 3.72) · 💻 Full-stack dev · 🌱 Mentoring 30+ students · 🚀 Hackathon-er
+🎓 Informatics @ **Unpad** · 💻 Full-stack dev · 🌱 Mentoring 30+ students · 🚀 Hackathon-er
 
 > Building impactful products with clean UI, optimized DB, and smooth UX.
 
